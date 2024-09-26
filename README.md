@@ -1,7 +1,5 @@
 # Instructions  
 
-Practice Problem 1.8
-
 1. Create two Booleans called _bool1_ which is assigned to True, and _bool2_ that is assigned to False. Output the result of them being ANDed together, then output the result of them being ORed together. Output these results on different lines.
 
 </br>
